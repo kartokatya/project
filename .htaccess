@@ -1,0 +1,4 @@
+<IfModule dir_module>
+    DirectoryIndex index.html
+AddType application/x-httpd-php .html .htm
+</IfModule>
